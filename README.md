@@ -1,13 +1,7 @@
-# Fake Shop
+# Desafio DevOps & Cloud - Júlia Bittencourt
 
+### Desafio 02 - Kubernetes
 
-## Variável de Ambiente
-DB_HOST	=> Host do banco de dados PostgreSQL.
+Manifesto criado: [deployment.yaml](https://github.com/juliabfluz/fake-shop/blob/main/k8s/deployment.yaml)
 
-DB_USER => Nome do usuário do banco de dados PostgreSQL.
-
-DB_PASSWORD	=> Senha do usuário do banco de dados PostgreSQL.
-
-DB_NAME	=>	Nome do banco de dados PostgreSQL.
-
-DB_PORT	=>	Porta de conexão com o banco de dados PostgreSQL.
+Link das imagens do projeto Fake Shop publicadas no Dockerhub: [https://hub.docker.com/repository/docker/juliabfluz/fake-shop](https://hub.docker.com/repository/docker/juliabfluz/fake-shop)
